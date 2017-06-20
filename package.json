@@ -1,0 +1,19 @@
+{
+  "name": "node-workspace",
+  "version": "1.0.0",
+  "description": "This repository is for practice with NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghigbie/NodeWorkspace.git"
+  },
+  "author": "George Higbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghigbie/NodeWorkspace/issues"
+  },
+  "homepage": "https://github.com/ghigbie/NodeWorkspace#readme"
+}
