@@ -1,8 +1,8 @@
-let hello = (name) => {
-    console.log(`Hello ${name}`);
+var hello = (name) => {
+    console.log(`Hello ${name}!`);
 };
 
-let intro = () => {
+var intro = () => {
     console.log(`I'm a node file called index.js`);  
 };
 
