@@ -2,7 +2,7 @@ var child_process = require('child_process');
 
 console.log(1);
 
-var newProcess = child_process.spawn('node', ['fibonacci.js'], {
+var newProcess = child_process.spawn('node', ['nonBlocking/_fibonacci.js'], {
     stdio: 'inherit'
 });
 
